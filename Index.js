@@ -25,7 +25,7 @@
 
             <nav>
                 <ul style="list-style-type: none;">
-                    <li><a href="plantas/plantas.html" style="color: rgb(69, 27, 124);">Plantas</a></li>
+                    <li><a href="/Plantas/index.js" style="color: rgb(69, 27, 124);">Plantas</a></li>
                     <li><a href="Cancionero/Cancionero.html" style="color: rgb(69, 27, 124);">Cancionero</a></li>
                 </ul>
             </nav>
